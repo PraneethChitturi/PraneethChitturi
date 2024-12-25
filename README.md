@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Portfolio Website: [https://www.praneeth.dev/](https://www.praneeth.dev/)
+
 My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly blending Data Science, Machine Learning, AI, DevOps, and UI/UX design — thriving in end-to-end product development
 <p align="center"><img src="/RefIntro.png" alt="Profile Picture" width="700" height="450"></p>
 
@@ -74,6 +75,15 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/SkillBadges/Rive.png" alt="Rive" width="65" height="65"/>
  </p>
 </p>
+
+
+#### Hackathons Attended:
+* [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
+
+
+#### Projects:
+- [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
+
 <br>
 
 
@@ -93,15 +103,6 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Database Management
 
 <br>
-
-
-#### Hackathons Attended:
-* [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
-
-
-#### Projects:
-- [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
-
 
 #### Trophies
 

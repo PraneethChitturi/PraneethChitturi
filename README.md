@@ -94,17 +94,17 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 
 <br>
 
-**👨‍💻 Programming Languages**: Java | Python | JavaScript | TypeScript | R | SQL | HTML | CSS
+-**👨‍💻 Programming Languages**: Java | Python | JavaScript | TypeScript | R | SQL | HTML | CSS
 
-**🛠️ Libraries & Frameworks & Tools**: Spring Boot| React | Node.JS | Express.JS | React Native | Django | MongoDB | MySQL | AWS | Tailwind CSS | MUI | Redux | Spring Data JPA | Flask | Postman | Selenium | Tableau | PowerBI | LangChain | Figma
+-**🛠️ Libraries & Frameworks & Tools**: Spring Boot| React | Node.JS | Express.JS | React Native | Django | MongoDB | MySQL | AWS | Tailwind CSS | MUI | Redux | Spring Data JPA | Flask | Postman | Selenium | Tableau | PowerBI | LangChain | Figma
 
-**✨ Software Architecture**: REST API | Microservices | Socket Programming | Distributed Systems (learning) | Design Patterns | CI/CD Deployment
+-**✨ Software Architecture**: REST API | Microservices | Socket Programming | Distributed Systems (learning) | Design Patterns | CI/CD Deployment
 
-**💾 Databases**: PostgreSQL | MongoDB
+-**💾 Databases**: PostgreSQL | MongoDB
 
-**☁️ Cloud**: AWS (S3, EC2, Lambda, API Gateway, DynamoDB)
+-**☁️ Cloud**: AWS (S3, EC2, Lambda, API Gateway, DynamoDB)
 
-**🌐 DevOps**:  Git | Jenkins | Docker | Kubernetes | Nexus | SonarQube | AquaTrivy | Prometheus | Grafana | EC2 | EKS
+-**🌐 DevOps**:  Git | Jenkins | Docker | Kubernetes | Nexus | SonarQube | AquaTrivy | Prometheus | Grafana | EC2 | EKS
 
 **🛠💻 Skills**: Full-Stack Development | REST APIs, Microservices, Socket Programming, CI/CD, System Design, Unit Test
 ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Database Management

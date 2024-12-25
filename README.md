@@ -77,8 +77,6 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <br>
 
 
-#### Some Technical Stuff I Work With
-
 **👨‍💻 Programming Languages**: Java | Python | JavaScript | TypeScript | R | SQL | HTML | CSS
 
 **🛠️ Libraries & Frameworks & Tools**: Spring Boot| React | Node.JS | Express.JS | React Native | Django | MongoDB | MySQL | AWS | Tailwind CSS | MUI | Redux | Spring Data JPA | Flask | Postman | Selenium | Tableau | PowerBI | LangChain | Figma
@@ -96,17 +94,21 @@ ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Dat
 
 <br>
 
+
 #### Hackathons Attended:
 * [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 
+
 #### Projects:
 - [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
+
 
 #### Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=x-sushant-x&theme=dracula"/>
 
 **Contact Me:**
+
 <a href="https://www.praneeth.dev/contactme"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>
 <a href="mailto:praneeth@tamu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pchitturi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>

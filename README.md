@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, You can call me PC!
 
 <!--
 **PraneethChitturi/PraneethChitturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly blending Data Science, Machine Learning, AI, DevOps, and UI/UX design — thriving in end-to-end product development
+<img src="/RefIntro.PNG" alt="Profile Picture" width="2000" height="520">
+<h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<p>Full-Stack/Mobile Development:</p>
+<img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
+<img src="/SkillBadges/React.png" alt="React" width="45" height="45"/>
+<img src="/SkillBadges/ExpressJS.png" alt="ExpressJS" width="45" height="45"/>
+<img src="/SkillBadges/NodeJS.png" alt="NodeJS" width="45" height="45"/>
+<img src="/SkillBadges/restapibadge.png" alt="RESTAPI" width="45" height="45"/>
+<img src="/SkillBadges/Typescript.png" alt="Typescript" width="45" height="45"/>
+<img src="/SkillBadges/Django.png" alt="Django" width="45" height="45"/>
+<img src="/SkillBadges/axiosbadge.png" alt="Axios" width="45" height="45"/>
+<img src="/SkillBadges/MongoDB.png" alt="MongoDB" width="45" height="45"/>
+<img src="/SkillBadges/SpringBoot.png" alt="SpringBoot" width="45" height="45"/>
+<img src="/SkillBadges/PostgreSQL.png" alt="PostgreSQL" width="45" height="45"/>
+<img src="/SkillBadges/ReactNative.png" alt="ReactNative" width="45" height="45"/>
+<img src="/SkillBadges/TailwindCSS.png" alt="TailwindCSS" width="45" height="45"/>
+<img src="/SkillBadges/NPM.png" alt="NPM" width="45" height="45"/>
+<img src="/SkillBadges/MUI.png" alt="MaterialUI" width="45" height="45"/>
+<img src="/SkillBadges/HTML.png" alt="HTML" width="45" height="45"/>
+<img src="/SkillBadges/CSS.png" alt="CSS" width="45" height="45"/>
+<img src="/SkillBadges/postmanbadge.png" alt="Postman" width="45" height="45"/>
+<img src="/SkillBadges/Jsvascript.png" alt="Javascript" width="45" height="45"/>
+
+<p>Data Science/ML:</p>
+<img src="/SkillBadges/LangChain.png" alt="LangChain" width="45" height="45"/>
+<img src="/SkillBadges/TensorFlow.png" alt="TensorFlow" width="45" height="45"/>
+<img src="/SkillBadges/DeepLearning.png" alt="DeepLearning" width="45" height="45"/>
+<img src="/SkillBadges/CrewAI.png" alt="CrewAI" width="45" height="45"/>
+<img src="/SkillBadges/Python.png" alt="Python" width="45" height="45"/>
+<img src="/SkillBadges/R.png" alt="R" width="45" height="45"/>
+<img src="/SkillBadges/SQL.png" alt="SQL" width="45" height="45"/>
+<img src="/SkillBadges/PowerBI.png" alt="PowerBI" width="45" height="45"/>
+<img src="/SkillBadges/Tableau.png" alt="Tableau" width="45" height="45"/>
+
+<p>DevOps/Cloud:</p>
+<img src="/SkillBadges/AWS.png" alt="AWS" width="45" height="45"/>
+<img src="/SkillBadges/Docker.png" alt="Docker" width="45" height="45"/>
+<img src="/SkillBadges/Jenkins.png" alt="Jenkins" width="45" height="45"/>
+<img src="/SkillBadges/Kubernetes.png" alt="Kubernetes" width="45" height="45"/>
+<img src="/SkillBadges/Github.png" alt="GitHub" width="45" height="45"/>
+<img src="/SkillBadges/Graphana.png" alt="Graphana" width="45" height="45"/>
+<img src="/SkillBadges/Airflow.png" alt="AirFlow" width="45" height="45"/>
+<img src="/SkillBadges/Tableau.png" alt="Tableau" width="45" height="45"/>
+
+<p>UI/UX:</p>
+<img src="/SkillBadges/Figma.png" alt="Figma" width="45" height="45"/>
+<img src="/SkillBadges/Illustrator.png" alt="Adobe Illustrator" width="45" height="45"/>
+<img src="/SkillBadges/AE.png" alt="Adobe AfterEffects" width="45" height="45"/>
+<img src="/SkillBadges/Rive.png" alt="Rive" width="45" height="45"/>
+
 </p>
 <br>
-<img src="/RefIntro.PNG" alt="Profile Picture" width="2000" height="520">
+
 
 #### Some Technical Stuff I Work With
 

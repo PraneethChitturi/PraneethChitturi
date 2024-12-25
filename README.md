@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <br>
-<img src="/RefIntro.png" alt="Profile Picture" width="200" height="200">
+<img src="/RefIntro.PNG" alt="Profile Picture" width="200" height="200">
 
 #### Some Technical Stuff I Work With
 

@@ -84,8 +84,9 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 #### Projects:
 - [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
 
+  
+####
 <br>
-
 
 **👨‍💻 Programming Languages**: Java | Python | JavaScript | TypeScript | R | SQL | HTML | CSS
 
@@ -108,7 +109,8 @@ ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Dat
 
 <img src="https://github-profile-trophy.vercel.app/?username=x-sushant-x&theme=dracula"/>
 
-**Contact Me:**
+
+#### Contact Me:
 
 <a href="https://www.praneeth.dev/contactme"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>
 <a href="mailto:praneeth@tamu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

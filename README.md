@@ -77,10 +77,10 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 </p>
 
 
-#### Hackathons Attended:
+<h2> 🚀 &nbsp;Hackathons Attended</h2>
 * [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
 
-
+<br>
 #### Projects:
 - [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
 
@@ -109,7 +109,7 @@ ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Dat
 
 <img src="https://github-profile-trophy.vercel.app/?username=x-sushant-x&theme=dracula"/>
 
-
+<br>
 #### Contact Me:
 
 <a href="https://www.praneeth.dev/contactme"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>

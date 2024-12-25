@@ -76,6 +76,9 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
  </p>
 </p>
 
+<br>
+
+<br>
 
 <h2> 🚀 &nbsp;Hackathons Attended</h2>
 * [Zorvex - Service Configuration Framework](https://github.com/sushant102004/Zorvex)
@@ -86,6 +89,8 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 - [How to Implement the Flutter Scaffold Class?](https://codeforgeek.com/flutter-scaffold-class/)
 
   
+
+<br>
 
 <br>
 

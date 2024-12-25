@@ -18,8 +18,7 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/RefIntro.PNG" alt="Profile Picture" width="2000" height="520">
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">
-<p>Full-Stack/Mobile Development:</p>
-<img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
+<p style={{display:inline-flex}}>Full-Stack/Mobile Development:<img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
 <img src="/SkillBadges/React.png" alt="React" width="45" height="45"/>
 <img src="/SkillBadges/ExpressJS.png" alt="ExpressJS" width="45" height="45"/>
 <img src="/SkillBadges/NodeJS.png" alt="NodeJS" width="45" height="45"/>
@@ -38,6 +37,7 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/SkillBadges/CSS.png" alt="CSS" width="45" height="45"/>
 <img src="/SkillBadges/postmanbadge.png" alt="Postman" width="45" height="45"/>
 <img src="/SkillBadges/Jsvascript.png" alt="Javascript" width="45" height="45"/>
+</p>
 
 <p>Data Science/ML:</p>
 <img src="/SkillBadges/LangChain.png" alt="LangChain" width="45" height="45"/>

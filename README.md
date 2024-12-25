@@ -106,7 +106,7 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 
 - **🌐 DevOps**:  Git | Jenkins | Docker | Kubernetes | Nexus | SonarQube | AquaTrivy | Prometheus | Grafana | EC2 | EKS
 
-**🛠💻 Skills**: Full-Stack Development | REST APIs, Microservices, Socket Programming, CI/CD, System Design, Unit Test
+- **🛠💻 Skills**: Full-Stack Development | REST APIs, Microservices, Socket Programming, CI/CD, System Design, Unit Test
 ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Database Management
 
 <br>

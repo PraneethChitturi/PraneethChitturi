@@ -20,7 +20,7 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">
 <p >Full-Stack/Mobile Development:
-</p><p align="left" style={{display:inline-flex}}><img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
+</p><p align="left" style={{display:inline-flex}}><img src="/SkillBadges/Java.png" alt="Java" width="65" height="65"/>
 <img src="/SkillBadges/React.png" alt="React" width="45" height="45"/>
 <img src="/SkillBadges/ExpressJS.png" alt="ExpressJS" width="45" height="45"/>
 <img src="/SkillBadges/NodeJS.png" alt="NodeJS" width="45" height="45"/>

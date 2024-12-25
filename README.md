@@ -18,7 +18,8 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/RefIntro.PNG" alt="Profile Picture" width="2000" height="520">
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">
-<p style={{display:inline-flex}}>Full-Stack/Mobile Development:<img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
+<p >Full-Stack/Mobile Development:
+</p><p align="left" style={{display:inline-flex}}><img src="/SkillBadges/Java.png" alt="Java" width="45" height="45"/>
 <img src="/SkillBadges/React.png" alt="React" width="45" height="45"/>
 <img src="/SkillBadges/ExpressJS.png" alt="ExpressJS" width="45" height="45"/>
 <img src="/SkillBadges/NodeJS.png" alt="NodeJS" width="45" height="45"/>
@@ -36,10 +37,11 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/SkillBadges/HTML.png" alt="HTML" width="45" height="45"/>
 <img src="/SkillBadges/CSS.png" alt="CSS" width="45" height="45"/>
 <img src="/SkillBadges/postmanbadge.png" alt="Postman" width="45" height="45"/>
-<img src="/SkillBadges/Jsvascript.png" alt="Javascript" width="45" height="45"/>
+<img src="/SkillBadges/Jsvascript.png" alt="Javascript" width="45" height="45"/></p>
 </p>
 
 <p>Data Science/ML:</p>
+  <p align="left" style={{display:inline-flex}}>
 <img src="/SkillBadges/LangChain.png" alt="LangChain" width="45" height="45"/>
 <img src="/SkillBadges/TensorFlow.png" alt="TensorFlow" width="45" height="45"/>
 <img src="/SkillBadges/DeepLearning.png" alt="DeepLearning" width="45" height="45"/>
@@ -48,9 +50,10 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/SkillBadges/R.png" alt="R" width="45" height="45"/>
 <img src="/SkillBadges/SQL.png" alt="SQL" width="45" height="45"/>
 <img src="/SkillBadges/PowerBI.png" alt="PowerBI" width="45" height="45"/>
-<img src="/SkillBadges/Tableau.png" alt="Tableau" width="45" height="45"/>
+<img src="/SkillBadges/Tableau.png" alt="Tableau" width="45" height="45"/></p>
 
 <p>DevOps/Cloud:</p>
+ <p align="left" style={{display:inline-flex}}>
 <img src="/SkillBadges/AWS.png" alt="AWS" width="45" height="45"/>
 <img src="/SkillBadges/Docker.png" alt="Docker" width="45" height="45"/>
 <img src="/SkillBadges/Jenkins.png" alt="Jenkins" width="45" height="45"/>
@@ -59,13 +62,15 @@ My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly b
 <img src="/SkillBadges/Graphana.png" alt="Graphana" width="45" height="45"/>
 <img src="/SkillBadges/Airflow.png" alt="AirFlow" width="45" height="45"/>
 <img src="/SkillBadges/Tableau.png" alt="Tableau" width="45" height="45"/>
-
+ </p>
+ 
 <p>UI/UX:</p>
+ <p align="left" style={{display:inline-flex}}>
 <img src="/SkillBadges/Figma.png" alt="Figma" width="45" height="45"/>
 <img src="/SkillBadges/Illustrator.png" alt="Adobe Illustrator" width="45" height="45"/>
 <img src="/SkillBadges/AE.png" alt="Adobe AfterEffects" width="45" height="45"/>
 <img src="/SkillBadges/Rive.png" alt="Rive" width="45" height="45"/>
-
+ </p>
 </p>
 <br>
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Forte lies in - crafting Full-stack Web and Mobile Applications, seamlessly blending Data Science, Machine Learning, AI, DevOps, and UI/UX design — thriving in end-to-end product development
-<img src="/RefIntro.PNG" alt="Profile Picture" width="2000" height="520">
+<img src="/RefIntro.png" alt="Profile Picture" width="900" height="450">
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">
 <p >Full-Stack/Mobile Development:

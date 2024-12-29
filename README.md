@@ -119,6 +119,6 @@ ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Dat
 
 #### Contact Me:
 
-<a href="https://www.praneethc.dev/contactme"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>
+<a href="[https://www.praneethc.dev/contactme](https://praneethc.dev/contactme)"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>
 <a href="mailto:praneeth@tamu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pchitturi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>

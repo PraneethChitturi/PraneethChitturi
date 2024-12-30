@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My Portfolio Website: [https://www.praneethc.dev/](https://www.praneethc.dev/)
 
 My Forte lies in - crafting <b>Full-stack Web</b> and <b>Mobile Applications</b>, seamlessly blending <b>Data Science</b>, <b>Machine Learning</b>, <b>AI</b>, <b>DevOps</b>, and <b>UI/UX design</b> — thriving in end-to-end product development
-<p align="center"><img src="/GitHubIntro.gif" alt="Profile Picture" width="800" height="450"></p>
+<p align="center"><img src="/GitHubIntro.gif" alt="Profile Picture" width="900" height="550"></p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Learned and Used</h2>
 <p align="left">

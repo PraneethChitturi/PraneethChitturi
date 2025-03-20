@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Portfolio Website: [https://www.praneethc.dev/](https://www.praneethc.dev/)
 
 My Forte lies in - crafting <b>Full-stack Web</b> and <b>Mobile Applications</b>, seamlessly blending <b>Data Science</b>, <b>Machine Learning</b>, <b>AI</b>, <b>DevOps</b>, and <b>UI/UX design</b> — thriving in end-to-end product development
 <p align="center"><img src="/GitHubIntro.gif" alt="Profile Picture" width="900" height="500"></p>
@@ -124,6 +123,5 @@ ing, Web Automation, Data Science & Analytics, ETL Pipelines, Deep Learning, Dat
 
 #### Contact Me:
 
-<a href="https://praneethc.dev/contactme"><img src="https://img.shields.io/badge/Contact%20Me%20Anonymously-N12206?style=for-the-badge&logo=googleforms&logoColor=white"/></a>
 <a href="mailto:praneeth@tamu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pchitturi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>

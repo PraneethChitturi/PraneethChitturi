@@ -81,15 +81,15 @@ My Forte lies in - crafting <b>Full-stack Web</b> and <b>Mobile Applications</b>
 
 <h2> 🚀 &nbsp;Hackathons Attended</h2>
 
-- [GenAI Hackathon 2024](https://mongodb-genai-hackathon-6-14.devpost.com/) : SocialCalenderAI – [Overview](https://praneethc.dev/projects/socalai) | [GitHub](https://github.com/jmalegankar/SocialCalenderAI) | [DevPost](https://devpost.com/software/socialcalenderai)
+- [GenAI Hackathon 2024](https://mongodb-genai-hackathon-6-14.devpost.com/) : SocialCalenderAI – [GitHub](https://github.com/jmalegankar/SocialCalenderAI) | [DevPost](https://devpost.com/software/socialcalenderai)
 - [TAMU Datathon 2022](https://tamudatathon2022.devpost.com/) (Winner 🏆) : Object Detection using RCNN – [Overview](https://devpost.com/software/object-detection-in-advanced-manufacturing-using-rcnn) | [GitHub](https://github.com/shashankgalla/Baker_Hughes_TAMU_Datathon-Object-Detection-in-Advanced-Manufacturing-using-Deep-Learning) | [DevPost](https://devpost.com/software/object-detection-in-advanced-manufacturing-using-rcnn)
 - [TAMU Datathon 2021](https://tamudatathon2021.devpost.com/) (#4 Rank) : Celonis 2021 Challenge – [DevPost](https://devpost.com/software/celonis-2021-challenge-tamu-datathon)
 
 <br>
 
 #### Projects:
-- GrabGrub Food App – [Overview](https://praneethc.dev/projects/grabgrub) | [GitHub](https://github.com/PraneethChitturi/GrabGrubFoodApplication)
-- Real-Time Chat App – [Overview](https://praneethc.dev/projects/realtimechatapp) | [GitHub](https://github.com/PraneethChitturi/LiveChatApp-FrontEnd)
+- GrabGrub Food App – [GitHub](https://github.com/PraneethChitturi/GrabGrubFoodApplication)
+- Real-Time Chat App – [GitHub](https://github.com/PraneethChitturi/LiveChatApp-FrontEnd)
 - Simulation Optimization of Hospital Care Facility – [GitHub](https://github.com/PraneethChitturi/Discrete-Event-Simulation-in-Python)
 
   
